@@ -1,0 +1,59 @@
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 278:Plugin executed on: 'win32'
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 279:Plugin executed with python version: '3.9.14 (main, Sep 19 2022, 05:11:57) [MSC v.1932 64 bit (AMD64)]'
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 280:KiCad build version: (6.0.9)
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 281:Plugin version: 1.1.0
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 282:Frame repr: <wx._core.Frame object at 0x0000023DF5F3D550>
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 301:Preparing replicator with K1 as a reference
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 329:source anchor footprint is 'K1'
+Located on: ['RELAY1']
+With filenames: ['RELAY.kicad_sch']
+With sheet_id:['RELAY1']
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 336:Corresponding footprints are 
+[('K3', ['RELAY2']), ('K2', ['RELAY']), ('K1', ['RELAY1'])]
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 348:Showing dialog
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 354:Toolbar position: wx.Point(918, 96)
+12-21 17:05:25 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 360:Dialog position: wx.Point(554, 96)
+12-21 17:05:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 329:constructing a list of sheets suitable for replication on level:'RELAY1', file:'RELAY.kicad_sch'
+12-21 17:05:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 366:suitable sheets are:[['RELAY'], ['RELAY2']]
+12-21 17:05:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 329:constructing a list of sheets suitable for replication on level:'RELAY1', file:'RELAY.kicad_sch'
+12-21 17:05:30 com_github_MitjaNemec_ReplicateLayout.replicate_layout 366:suitable sheets are:[['RELAY'], ['RELAY2']]
+12-21 17:05:30 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 128:Replicating layout
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 146:Starting replication of sheets: [['RELAY'], ['RELAY2']]
+on level: ['RELAY1']
+with tracks=True, zone=True, text=True, containing=True, remove=False, locked=False, by_group=False
+12-21 17:05:31 root 218:updating GUI message: 'Preparing for replication'
+12-21 17:05:31 root 223:updating GUI with: 0
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 215:Getting the list of source footprints
+12-21 17:05:31 root 223:updating GUI with: 0
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 230:Getting the list of all the remaining footprints
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 235:Getting nets local to source footprints
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 238:Getting source bounding box
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 242:Getting source tracks
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 251:Getting source zones
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 260:Getting source text items
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 269:Getting source drawing items
+12-21 17:05:31 root 218:updating GUI message: 'Replicating footprints'
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 663:Replicating footprints
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 669:Replicating footprints on sheet ['RELAY']
+12-21 17:05:31 root 223:updating GUI with: 7
+12-21 17:05:31 root 223:updating GUI with: 21
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 669:Replicating footprints on sheet ['RELAY2']
+12-21 17:05:31 root 218:updating GUI message: 'Replicating tracks'
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 829:Replicating tracks
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Replicating tracks on sheet ['RELAY']
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Replicating tracks on sheet ['RELAY2']
+12-21 17:05:31 root 218:updating GUI message: 'Replicating zones'
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 887:Replicating zones
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 894:Replicating zones on sheet ['RELAY']
+12-21 17:05:31 root 223:updating GUI with: 50
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 894:Replicating zones on sheet ['RELAY2']
+12-21 17:05:31 root 218:updating GUI message: 'Replicating text'
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 957:Replicating text
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 964:Replicating text on sheet ['RELAY']
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 964:Replicating text on sheet ['RELAY2']
+12-21 17:05:31 root 218:updating GUI message: 'Replicating drawings'
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 997:Replicating drawings
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Replicating drawings on sheet ['RELAY']
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Replicating drawings on sheet ['RELAY2']
+12-21 17:05:31 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 152:Replication complete

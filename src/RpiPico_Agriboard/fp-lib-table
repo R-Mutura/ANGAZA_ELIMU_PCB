@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "geviton_lib")(type "KiCad")(uri "C:/Users/user/Documents/kicad6/KICAD 6.0.0/contractual_projects/Rpi_pico_AgriBoard/rpi_pico_agriboard/assets/geviton_lib.pretty")(options "")(descr ""))
+)

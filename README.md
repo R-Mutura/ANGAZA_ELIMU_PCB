@@ -1,7 +1,7 @@
 # ANGAZA_ELIMU_PCB
 
 This repo contains the Hardware design and production files for the `Angaza Elimu Smart Farm` board.
- ### Version 1.0.0 Solarless_Board 
+ ###  Version 1.0.0 Solarless_Board 
  please refer to the attached release for all the production files.
 
 ## Description
@@ -33,5 +33,9 @@ In the repo you will find:
 - 📁 Placement_Files - Component assembly CSV files for use with Pick-n-Place machines
 - 📁 SCH_PDF - PDF version of the schematic Design
 - 📁 src - Contains all the Design files with relation to KiCad and the project. Should be accessed and modified by a skilled personel.
+![RpiPico_Agriboard 3](https://github.com/R-Mutura/ANGAZA_ELIMU_PCB/assets/85989401/b7e07d5f-58e6-4f2e-96d0-021b6e61bfde)
+![RpiPico_Agriboard 4](https://github.com/R-Mutura/ANGAZA_ELIMU_PCB/assets/85989401/049f191a-b9ae-424b-9097-3bda700357a2)
+
+
 
 - # THANK YOU.

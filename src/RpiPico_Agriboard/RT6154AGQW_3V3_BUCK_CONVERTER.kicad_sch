@@ -680,7 +680,7 @@
     (uuid fcf7d408-9b48-48e5-9ded-1b4e79bdb02a)
   )
 
-  (text "3V3 BUCK REGULATOR" (at 137.16 50.8 0)
+  (text "3V3 BUCK BOOST REGULATOR" (at 137.16 50.8 0)
     (effects (font (size 3 3) bold italic) (justify left bottom))
     (uuid 9b27f7b5-cb39-4478-8e9e-7d6217a530e8)
   )

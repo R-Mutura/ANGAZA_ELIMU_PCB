@@ -1,0 +1,18 @@
+Angaza Elimu smart farm
+- Let us simplify the powering circuit. 
+As shown in the diagram below. also add a 
+provision for an extra battery in parallel - DONE
+- Power all modules through a high side mosfet. 
+This way users can easily turn off the modules 
+they are not using. All power supplies to the header pins should be controlled
+ from a common mosfet switch too. Currently the battery drains too fast - PARTIALLY DONE
+- Relay mosfets were not working, because the gate resistance 
+was too big. Please use 100ohm resistor in the gate and increase
+ the pull down resistor to 100k - DONE
+- Use different LED colors for indication. Currently they are 
+all blue - DONE
+- Replace the battery low monitor with the voltage divider
+ circuit we used on the aquarech board. - DONE
+- Add GND screw terminal on the RS485 port - DONE
+- Change the Geviton Logo to the new one. please check 
+in the website

@@ -2875,10 +2875,10 @@
     (uuid fcdd5c34-281d-4232-872d-4758b33c4d2c)
   )
 
-  (global_label "MODULES_PWR_3V3" (shape input) (at 133.35 72.39 0) (fields_autoplaced)
+  (global_label "MODULES_PWR_3V3" (shape input) (at 133.35 72.39 90) (fields_autoplaced)
     (effects (font (size 0.8 0.8)) (justify left))
     (uuid 17b22526-6661-4048-8f7e-ffdf195d30aa)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 146.6469 72.39 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 133.35 59.0931 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -3222,7 +3222,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "Q?") (unit 1)
+          (reference "Q3") (unit 1)
         )
       )
     )
@@ -3253,7 +3253,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "R?") (unit 1)
+          (reference "R18") (unit 1)
         )
       )
     )
@@ -3389,7 +3389,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "R?") (unit 1)
+          (reference "R17") (unit 1)
         )
       )
     )
@@ -3495,7 +3495,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "Q?") (unit 1)
+          (reference "Q1") (unit 1)
         )
       )
     )
@@ -3558,7 +3558,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "Q?") (unit 1)
+          (reference "Q4") (unit 1)
         )
       )
     )
@@ -3639,7 +3639,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "R?") (unit 1)
+          (reference "R10") (unit 1)
         )
       )
     )
@@ -3780,7 +3780,7 @@
   (symbol (lib_id "Diode:BZT52Bxx") (at 73.66 44.45 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 63a5207f-da3e-404a-bed0-0d2462e22309)
-    (property "Reference" "D?" (at 76.2 43.815 90)
+    (property "Reference" "D2" (at 76.2 43.815 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BZT52Bxx" (at 76.2 46.355 90)
@@ -3797,7 +3797,7 @@
     (instances
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "D?") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -3853,7 +3853,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "R?") (unit 1)
+          (reference "R24") (unit 1)
         )
       )
     )
@@ -3937,7 +3937,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "R?") (unit 1)
+          (reference "R25") (unit 1)
         )
       )
     )
@@ -3996,7 +3996,7 @@
   (symbol (lib_id "Device:R_US") (at 73.66 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 804c904d-caf9-4e52-8a53-a01858992440)
-    (property "Reference" "R?" (at 76.2 52.705 0)
+    (property "Reference" "R8" (at 76.2 52.705 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "R_US" (at 76.2 55.245 0)
@@ -4013,7 +4013,7 @@
     (instances
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "R?") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -4275,7 +4275,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "R?") (unit 1)
+          (reference "R19") (unit 1)
         )
       )
     )
@@ -4691,7 +4691,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "R?") (unit 1)
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -4828,7 +4828,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
-          (reference "R?") (unit 1)
+          (reference "R26") (unit 1)
         )
       )
     )

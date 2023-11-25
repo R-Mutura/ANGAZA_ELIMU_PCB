@@ -658,7 +658,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "C?") (unit 1)
+          (reference "C35") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -775,7 +775,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "U?") (unit 1)
+          (reference "U9") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -814,7 +814,7 @@
           (reference "C?") (unit 1)
         )
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "C?") (unit 1)
+          (reference "C39") (unit 1)
         )
       )
     )
@@ -845,7 +845,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "C?") (unit 1)
+          (reference "C44") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -986,7 +986,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "R?") (unit 1)
+          (reference "R72") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -1022,7 +1022,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "C?") (unit 1)
+          (reference "C37") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -1058,7 +1058,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "R?") (unit 1)
+          (reference "R69") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -1094,7 +1094,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "C?") (unit 1)
+          (reference "C43") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -1130,7 +1130,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "C?") (unit 1)
+          (reference "C42") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -1236,7 +1236,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "C?") (unit 1)
+          (reference "C40") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -1272,7 +1272,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "R?") (unit 1)
+          (reference "R70") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -1346,7 +1346,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "L?") (unit 1)
+          (reference "L3") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -1490,7 +1490,7 @@
           (reference "C?") (unit 1)
         )
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "C?") (unit 1)
+          (reference "C38") (unit 1)
         )
       )
     )
@@ -1521,7 +1521,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "R?") (unit 1)
+          (reference "R71") (unit 1)
         )
       )
       (project "led_ethernet"
@@ -1557,7 +1557,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f98a2807-65d0-41e7-b79a-f2fc4420af54"
-          (reference "C?") (unit 1)
+          (reference "C41") (unit 1)
         )
       )
       (project "led_ethernet"

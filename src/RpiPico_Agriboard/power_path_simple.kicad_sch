@@ -562,7 +562,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "Q?") (unit 1)
+          (reference "Q6") (unit 1)
         )
       )
     )
@@ -596,7 +596,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "C?") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -627,7 +627,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "D?") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -718,7 +718,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "R?") (unit 1)
+          (reference "R36") (unit 1)
         )
       )
     )
@@ -780,7 +780,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "Q?") (unit 1)
+          (reference "Q8") (unit 1)
         )
       )
     )
@@ -811,7 +811,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "R?") (unit 1)
+          (reference "R37") (unit 1)
         )
       )
     )
@@ -845,7 +845,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "C?") (unit 1)
+          (reference "C23") (unit 1)
         )
       )
     )

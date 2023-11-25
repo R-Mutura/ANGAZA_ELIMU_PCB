@@ -1543,7 +1543,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "C?") (unit 1)
+          (reference "C26") (unit 1)
         )
       )
     )
@@ -1574,7 +1574,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "R?") (unit 1)
+          (reference "R40") (unit 1)
         )
       )
     )
@@ -1605,7 +1605,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "D?") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -1666,7 +1666,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "C?") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
     )
@@ -1697,7 +1697,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "R?") (unit 1)
+          (reference "R50") (unit 1)
         )
       )
     )
@@ -1788,7 +1788,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "R?") (unit 1)
+          (reference "R41") (unit 1)
         )
       )
     )
@@ -1819,7 +1819,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "BT?") (unit 1)
+          (reference "BT1") (unit 1)
         )
       )
     )
@@ -1910,7 +1910,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "C?") (unit 1)
+          (reference "C28") (unit 1)
         )
       )
     )
@@ -1971,7 +1971,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "R?") (unit 1)
+          (reference "R42") (unit 1)
         )
       )
     )
@@ -2017,7 +2017,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "U?") (unit 1)
+          (reference "U5") (unit 1)
         )
       )
     )
@@ -2048,7 +2048,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "C?") (unit 1)
+          (reference "C27") (unit 1)
         )
       )
     )
@@ -2079,7 +2079,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "C?") (unit 1)
+          (reference "C30") (unit 1)
         )
       )
     )
@@ -2110,7 +2110,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "D?") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -2140,7 +2140,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "TP?") (unit 1)
+          (reference "TP3") (unit 1)
         )
       )
     )
@@ -2171,7 +2171,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "D?") (unit 1)
+          (reference "D16") (unit 1)
         )
       )
     )
@@ -2201,7 +2201,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "TP?") (unit 1)
+          (reference "TP4") (unit 1)
         )
       )
     )
@@ -2232,7 +2232,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "BT?") (unit 1)
+          (reference "BT2") (unit 1)
         )
       )
     )
@@ -2266,7 +2266,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "L?") (unit 1)
+          (reference "L2") (unit 1)
         )
       )
     )
@@ -2297,7 +2297,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "C?") (unit 1)
+          (reference "C29") (unit 1)
         )
       )
     )
@@ -2328,7 +2328,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "TH?") (unit 1)
+          (reference "TH1") (unit 1)
         )
       )
     )
@@ -2359,7 +2359,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "C?") (unit 1)
+          (reference "C31") (unit 1)
         )
       )
     )
@@ -2390,7 +2390,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "R?") (unit 1)
+          (reference "R39") (unit 1)
         )
       )
     )
@@ -2421,7 +2421,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "C?") (unit 1)
+          (reference "C34") (unit 1)
         )
       )
     )
@@ -2458,7 +2458,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "R?") (unit 1)
+          (reference "R38") (unit 1)
         )
       )
     )
@@ -2549,7 +2549,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "R?") (unit 1)
+          (reference "R43") (unit 1)
         )
       )
     )
@@ -2580,7 +2580,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "R?") (unit 1)
+          (reference "R47") (unit 1)
         )
       )
     )
@@ -2612,7 +2612,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "RV?") (unit 1)
+          (reference "RV1") (unit 1)
         )
       )
     )
@@ -2643,7 +2643,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "D?") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -2675,7 +2675,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "Q?") (unit 1)
+          (reference "Q12") (unit 1)
         )
       )
     )
@@ -2731,7 +2731,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "C?") (unit 1)
+          (reference "C25") (unit 1)
         )
       )
     )
@@ -2762,7 +2762,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "C?") (unit 1)
+          (reference "C33") (unit 1)
         )
       )
     )
@@ -2826,7 +2826,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "R?") (unit 1)
+          (reference "R68") (unit 1)
         )
       )
     )
@@ -2887,7 +2887,7 @@
       )
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b"
-          (reference "C?") (unit 1)
+          (reference "C32") (unit 1)
         )
       )
     )

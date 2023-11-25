@@ -561,8 +561,8 @@
         )
       )
       (project "RpiPico_Agriboard"
-        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "Q?") (unit 1)
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/6578793a-18cf-4100-aa8d-b3f918b44a8b/705d5845-37bb-48c7-9641-198316a19ba9"
+          (reference "Q12") (unit 1)
         )
       )
     )
@@ -571,7 +571,7 @@
   (symbol (lib_id "Device:C_Small") (at 206.375 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3a203750-2919-4c20-8fa8-6db0389d44f8)
-    (property "Reference" "C27" (at 208.915 101.6062 0)
+    (property "Reference" "C30" (at 208.915 101.6062 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7u" (at 208.915 103.505 0)
@@ -595,8 +595,8 @@
         )
       )
       (project "RpiPico_Agriboard"
-        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "C?") (unit 1)
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/6578793a-18cf-4100-aa8d-b3f918b44a8b/705d5845-37bb-48c7-9641-198316a19ba9"
+          (reference "C30") (unit 1)
         )
       )
     )
@@ -605,7 +605,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 154.305 116.84 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e2e9420-34ab-4225-b5b7-a837815cf1e9)
-    (property "Reference" "D12" (at 155.8926 119.38 90)
+    (property "Reference" "D6" (at 155.8926 119.38 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS34" (at 153.3526 119.38 90)
@@ -626,8 +626,8 @@
         )
       )
       (project "RpiPico_Agriboard"
-        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "D?") (unit 1)
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/6578793a-18cf-4100-aa8d-b3f918b44a8b/705d5845-37bb-48c7-9641-198316a19ba9"
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -656,8 +656,8 @@
         )
       )
       (project "RpiPico_Agriboard"
-        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "#PWR058") (unit 1)
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/6578793a-18cf-4100-aa8d-b3f918b44a8b/705d5845-37bb-48c7-9641-198316a19ba9"
+          (reference "#PWR078") (unit 1)
         )
       )
     )
@@ -686,8 +686,8 @@
         )
       )
       (project "RpiPico_Agriboard"
-        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "#PWR060") (unit 1)
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/6578793a-18cf-4100-aa8d-b3f918b44a8b/705d5845-37bb-48c7-9641-198316a19ba9"
+          (reference "#PWR080") (unit 1)
         )
       )
     )
@@ -696,7 +696,7 @@
   (symbol (lib_id "Device:R_US") (at 134.62 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cc3d5cde-8b11-4256-8041-617022aacc28)
-    (property "Reference" "R58" (at 134.62 88.265 90)
+    (property "Reference" "R24" (at 134.62 88.265 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1K" (at 134.62 90.805 90)
@@ -717,8 +717,8 @@
         )
       )
       (project "RpiPico_Agriboard"
-        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "R?") (unit 1)
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/6578793a-18cf-4100-aa8d-b3f918b44a8b/705d5845-37bb-48c7-9641-198316a19ba9"
+          (reference "R24") (unit 1)
         )
       )
     )
@@ -747,8 +747,8 @@
         )
       )
       (project "RpiPico_Agriboard"
-        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "#PWR059") (unit 1)
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/6578793a-18cf-4100-aa8d-b3f918b44a8b/705d5845-37bb-48c7-9641-198316a19ba9"
+          (reference "#PWR079") (unit 1)
         )
       )
     )
@@ -779,8 +779,8 @@
         )
       )
       (project "RpiPico_Agriboard"
-        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "Q?") (unit 1)
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/6578793a-18cf-4100-aa8d-b3f918b44a8b/705d5845-37bb-48c7-9641-198316a19ba9"
+          (reference "Q13") (unit 1)
         )
       )
     )
@@ -789,7 +789,7 @@
   (symbol (lib_id "Device:R_US") (at 142.875 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f4b78630-6059-4423-b2c7-f6d3482b36ee)
-    (property "Reference" "R59" (at 145.415 97.7899 0)
+    (property "Reference" "R27" (at 145.415 97.7899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 145.415 100.3299 0)
@@ -810,8 +810,8 @@
         )
       )
       (project "RpiPico_Agriboard"
-        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "R?") (unit 1)
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/6578793a-18cf-4100-aa8d-b3f918b44a8b/705d5845-37bb-48c7-9641-198316a19ba9"
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -820,7 +820,7 @@
   (symbol (lib_id "Device:C_Small") (at 215.265 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f6b0c56e-3187-4b37-bfe1-0dc090401d4f)
-    (property "Reference" "C28" (at 217.805 101.6062 0)
+    (property "Reference" "C37" (at 217.805 101.6062 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 217.805 104.14 0)
@@ -844,8 +844,8 @@
         )
       )
       (project "RpiPico_Agriboard"
-        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/f3a00526-8108-483c-9ec5-d5fcf6fe065b/e1b77c03-2b38-43f3-998b-3c2f1972d847"
-          (reference "C?") (unit 1)
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/6578793a-18cf-4100-aa8d-b3f918b44a8b/705d5845-37bb-48c7-9641-198316a19ba9"
+          (reference "C37") (unit 1)
         )
       )
     )

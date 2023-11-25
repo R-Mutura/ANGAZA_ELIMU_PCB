@@ -524,12 +524,16 @@
       "RP2040TR7_MCU"
     ],
     [
-      "e1b77c03-2b38-43f3-998b-3c2f1972d847",
-      "power_path_simple"
-    ],
-    [
       "d7235480-5339-47ed-bac5-b2c207ca2fef",
       "MOSFET_DRIVEN_OUTPUTS1"
+    ],
+    [
+      "46c4a3d0-e299-43cc-8fc8-fcc28483d834",
+      "5V_2A_BUCK_BOOST"
+    ],
+    [
+      "24c6e404-2f4a-4dbb-9986-91bd33f8232b",
+      "POWER_PATH_V2"
     ],
     [
       "4989adb0-6d03-42f9-a1c9-e7542d6be073",
@@ -556,16 +560,8 @@
       "RELAY"
     ],
     [
-      "f3a00526-8108-483c-9ec5-d5fcf6fe065b",
-      "MPPT_SOLAR_CHARGER_CN3722"
-    ],
-    [
       "827facb7-9c45-4c85-9a92-9d9251c4bfe7",
       "RELAY2"
-    ],
-    [
-      "f98a2807-65d0-41e7-b79a-f2fc4420af54",
-      "BUCK_BOOST_CONVERTER_TPS63070_5V"
     ],
     [
       "72a22278-332d-4fac-9f87-e146604ac9df",
@@ -574,6 +570,14 @@
     [
       "ca6d2227-669d-49ee-b832-d83811a1c959",
       "UART_TO_RS485_SHIELDED"
+    ],
+    [
+      "1267599f-06e6-4857-8d0e-7d2b5f8cfe1d",
+      "boost_converter_5v_2a"
+    ],
+    [
+      "ff5abb4c-d228-4c28-b5ca-250a882d54e2",
+      "bat_charger"
     ]
   ],
   "text_variables": {}

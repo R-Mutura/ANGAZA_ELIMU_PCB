@@ -1,4 +1,4 @@
-23617698862473097
+23663582333360509
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60774,12 +60774,47 @@ Yellow 5381 Series LED
 2
 2
 MACHADA_footprints
+2pin_2mm_jst_v_bat_S2B-PH-SM4-TB
+2pin_2mm_jst_v_bat_S2B-PH-SM4-TB
+2pin_2mm_jst_v_bat_S2B-PH-SM4-TB
+0
+4
+4
+MACHADA_footprints
+AMPHENOL_10118194-0001LF
+
+
+0
+13
+11
+MACHADA_footprints
+ANGAZA_LOGO_small
+
+
+0
+0
+0
+MACHADA_footprints
+ANT_PRO-OB-471
+LORA_ANTENNA, LORA NATENNA, 868MHz, 915MHz, RF Antenna 860MHz ~ 870MHz
+LORA_ANTENNA, LORA NATENNA, 868MHz, 915MHz, RF Antenna 860MHz ~ 870MHz, PRO-OB-471
+0
+6
+6
+MACHADA_footprints
 B82721K2202N001
 
 
 0
 4
 4
+MACHADA_footprints
+BarrelJack_4840.2201
+Barrel jack connector (5.5 mm outer diameter, 2.05 inner diameter ), https://gct.co/files/drawings/dcj200-10.pdf
+connector barrel jack
+0
+3
+3
 MACHADA_footprints
 Diodes_PowerDI3333-8-MCD
 Diodes Incorporated PowerDI3333-8, Plastic Dual Flat No Lead Package, 3.3x3.3x0.8mm Body, https://www.diodes.com/assets/Package-Files/PowerDI3333-8.pdf
@@ -60788,7 +60823,21 @@ PowerDI 0.65
 13
 3
 MACHADA_footprints
+ESP32S2SOLON4R2
+ESP32-S2-SOLO-N4R2-2
+Integrated Circuit
+0
+41
+40
+MACHADA_footprints
 GEVITON_LOGO
+
+
+0
+0
+0
+MACHADA_footprints
+GEVITON_LOGO_EXTRASMALL
 
 
 0
@@ -60801,6 +60850,48 @@ GEVITON_LOGO_NEG
 0
 0
 0
+MACHADA_footprints
+GEVITON_LOGO_extra_small
+
+
+0
+0
+0
+MACHADA_footprints
+GEVITON_LOGO_small
+
+
+0
+0
+0
+MACHADA_footprints
+GPS_ANTENNA_SMD_SPE-15-8-034-C
+
+
+0
+9
+2
+MACHADA_footprints
+IC_SKY65943-11
+
+
+0
+11
+11
+MACHADA_footprints
+IND-PSPMAA0803H-100M-ANP
+
+
+0
+2
+2
+MACHADA_footprints
+J-LINK_NEEDLE_ADAPTER_10pin_small
+
+
+0
+10
+10
 MACHADA_footprints
 JST_1X4_P1.5_SHDRRA4W50P0X150
 S4B-ZR(LF)(SN)
@@ -60844,12 +60935,47 @@ MT3608 Step-Up Boost Converter
 4
 4
 MACHADA_footprints
+MY-1220-03-R_CR1220
+
+
+0
+3
+2
+MACHADA_footprints
 SIGFOX_BREAKOUT
 
 
 0
 5
 5
+MACHADA_footprints
+SPACE_GENESIS
+
+
+0
+0
+0
+MACHADA_footprints
+SW-420
+
+
+0
+2
+2
+MACHADA_footprints
+SW-520D
+
+
+0
+2
+2
+MACHADA_footprints
+SWITCH_SIDE_MOUNT_SK3296S01L1
+SK-3296S-01-L1-1
+Connector
+0
+7
+7
 MACHADA_footprints
 TBU-CA065-200-WH
 surge protection
@@ -60865,12 +60991,33 @@ TPS63020 Power Supply Module
 11
 6
 MACHADA_footprints
+TRANS_RQ3E100BNTB
+
+
+0
+5
+5
+MACHADA_footprints
 TR_SM91514AL
 
 
 0
 6
 6
+MACHADA_footprints
+W3320_LORA_ANTENNA
+
+
+0
+4
+3
+MACHADA_footprints
+XCVR_NRF9160-SIBA-R
+
+
+0
+161
+161
 MACHADA_footprints
 XCVR_SIM800F
 
@@ -60879,6 +61026,13 @@ XCVR_SIM800F
 68
 68
 MACHADA_footprints
+XCVR_WSSFM10R1AT
+
+
+0
+31
+31
+MACHADA_footprints
 XL6009 MODULE
 
 
@@ -60886,12 +61040,33 @@ XL6009 MODULE
 4
 4
 MACHADA_footprints
+gprs_gsm_antenna_P822601
+
+
+0
+22
+18
+MACHADA_footprints
+ind_NR3015T2R2M
+
+
+0
+2
+2
+MACHADA_footprints
 micro_sim_XKSIM-220
 XKSIM-220
 XKSIM-220, sim card, microsim card, push_in_push_out_simcard connector
 0
 11
 9
+MACHADA_footprints
+nrf9161
+
+
+0
+159
+127
 MACHADA_footprints
 pc817-DIP-4_W7.62mm_SMDSocket_SmallPads
 4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
@@ -60907,6 +61082,13 @@ pulse
 0
 0
 MACHADA_footprints
+sim_micro_SMC2026
+SMC-202-6-1
+Connector
+0
+10
+10
+MACHADA_footprints
 swiftpwr
 
 
@@ -60920,6 +61102,13 @@ Transformer
 0
 8
 8
+MACHADA_footprints
+ujuzikilimo_logo
+
+
+0
+0
+0
 MACHADA_footprints
 zmct103c
 zmct103c-1

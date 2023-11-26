@@ -532,6 +532,10 @@
       "MOSFET_DRIVEN_OUTPUTS1"
     ],
     [
+      "c7803aa1-0b49-427a-b71f-6cd4c5620f02",
+      "IO_EXPANDER"
+    ],
+    [
       "4989adb0-6d03-42f9-a1c9-e7542d6be073",
       "LORA_RA02"
     ],

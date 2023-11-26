@@ -1253,6 +1253,8 @@
     (uuid f421fce7-778d-4887-a9f3-691555f59950)
   )
 
+  (no_connect (at 69.85 162.56) (uuid 39a48fc2-2225-431b-920a-9b3471aaceef))
+
   (wire (pts (xy 266.7 26.67) (xy 257.175 26.67))
     (stroke (width 0) (type default))
     (uuid 00a244ac-5fe1-46a7-ab66-d85ae72976e8)
@@ -1734,6 +1736,10 @@
   (wire (pts (xy 136.525 31.75) (xy 140.97 31.75))
     (stroke (width 0) (type default))
     (uuid 88975c81-78fa-4921-b877-4b8002589ad4)
+  )
+  (wire (pts (xy 64.77 162.56) (xy 69.85 162.56))
+    (stroke (width 0) (type default))
+    (uuid 89fd9814-b4c5-4a23-81d0-669358f93da4)
   )
   (wire (pts (xy 34.925 64.135) (xy 43.18 64.135))
     (stroke (width 0) (type default))
@@ -4493,6 +4499,10 @@
     (pin "ESP8266_RX_out" input (at 64.77 154.94 0)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid dc2cdb1b-f386-45a7-b2d3-13ef83ea991a)
+    )
+    (pin "reset" input (at 64.77 162.56 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 7b02b39a-85aa-44cf-92f6-9934e5f891e2)
     )
     (instances
       (project "RpiPico_Agriboard"

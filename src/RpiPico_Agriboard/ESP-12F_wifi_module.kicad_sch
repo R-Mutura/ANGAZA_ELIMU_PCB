@@ -583,6 +583,10 @@
   (no_connect (at 154.94 78.74) (uuid da6365a0-2689-4242-b27f-26e1bc275491))
   (no_connect (at 154.94 91.44) (uuid dca259cc-067c-487e-8ffc-bbabd72ce2a5))
 
+  (wire (pts (xy 108.585 66.04) (xy 124.46 66.04))
+    (stroke (width 0) (type default))
+    (uuid 041c1c7f-b36c-4698-8971-ec0c4478c34b)
+  )
   (wire (pts (xy 212.09 106.045) (xy 217.17 106.045))
     (stroke (width 0) (type default))
     (uuid 04478256-8a59-42ee-8ba6-07cb28d5079d)
@@ -719,10 +723,6 @@
     (stroke (width 0) (type default))
     (uuid 99f2f017-eae1-44b5-b6b0-98e6b9dc5e58)
   )
-  (wire (pts (xy 108.585 66.04) (xy 124.46 66.04))
-    (stroke (width 0) (type default))
-    (uuid 9eef805e-6c49-46ec-9ae2-be45ded97696)
-  )
   (wire (pts (xy 139.7 50.165) (xy 139.7 51.435))
     (stroke (width 0) (type default))
     (uuid a2a6dc71-8e34-422c-8c5f-db8d4577ba61)
@@ -787,10 +787,6 @@
   (label "TMS" (at 164.465 86.36 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 22711bcd-1740-4f8f-985d-11ca90d868c4)
-  )
-  (label "reset" (at 80.01 67.31 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 332f6579-c320-4dda-b029-b05eee8df5f3)
   )
   (label "TDI" (at 164.465 81.28 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -866,6 +862,10 @@
     (effects (font (size 1.27 1.27) bold) (justify left))
     (uuid aacdf04a-68bd-4159-8c74-f6d3d9d470d8)
   )
+  (hierarchical_label "reset" (shape input) (at 80.01 67.31 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid b09f2d5a-5f5d-4bac-ac28-2e9c320f1a9c)
+  )
   (hierarchical_label "ESP8266_TX_out" (shape input) (at 217.17 100.965 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27) bold) (justify left))
     (uuid e0cf212a-cdd3-4326-9e23-690c555f8497)
@@ -937,7 +937,7 @@
     (property "Datasheet" "" (at 78.105 75.565 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bd2bd5b5-2294-452c-bbdb-6c6e94899ef7))
+    (pin "1" (uuid e5001828-b0c7-4908-99d9-ce6389e4ee67))
     (instances
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/24a6f6dd-59ed-4a3f-ab3f-0a381255370f"
@@ -1215,7 +1215,7 @@
     (property "Datasheet" "" (at 60.325 70.485 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e59800d2-1f17-4fea-b03f-f6cef2484822))
+    (pin "1" (uuid 244d1ce4-b226-47e2-b4e3-c5fdf372266b))
     (instances
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/24a6f6dd-59ed-4a3f-ab3f-0a381255370f/72a22278-332d-4fac-9f87-e146604ac9df"
@@ -1266,8 +1266,8 @@
     (property "Datasheet" "~" (at 78.105 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8833483b-934a-4430-9d04-0551b21c5035))
-    (pin "2" (uuid aa00e239-463c-4917-ba48-d0034240e506))
+    (pin "1" (uuid c5b30da1-baf1-4eff-a648-ebfd4e8e889e))
+    (pin "2" (uuid cb0c6661-4b20-43d3-a5d2-c2c73b6d3c80))
     (instances
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/24a6f6dd-59ed-4a3f-ab3f-0a381255370f"
@@ -1295,8 +1295,8 @@
     (property "Datasheet" "~" (at 67.945 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b41dc663-8c42-4e54-b6a8-3b1b36f98f2b))
-    (pin "2" (uuid a86ac4a2-96f3-4b9f-a19c-5c2aa6a78590))
+    (pin "1" (uuid 002ae849-fb11-418e-9cb3-145f1a80c3aa))
+    (pin "2" (uuid f1bcb565-ed6c-4d7a-a3dd-7132a7123231))
     (instances
       (project "RpiPico_Agriboard"
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/24a6f6dd-59ed-4a3f-ab3f-0a381255370f/72a22278-332d-4fac-9f87-e146604ac9df"

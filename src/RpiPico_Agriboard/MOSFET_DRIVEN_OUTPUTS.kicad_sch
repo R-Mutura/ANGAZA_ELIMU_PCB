@@ -453,11 +453,11 @@
         )
       )
     )
-    (symbol "power:+24V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "power:+12V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Value" "+24V" (at 0 3.556 0)
+      (property "Value" "+12V" (at 0 3.556 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at 0 0 0)
@@ -466,13 +466,13 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (at 0 0 0)
+      (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Power symbol creates a global label with name \"+24V\"" (at 0 0 0)
+      (property "ki_description" "Power symbol creates a global label with name \"+12V\"" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "+24V_0_1"
+      (symbol "+12V_0_1"
         (polyline
           (pts
             (xy -0.762 1.27)
@@ -498,9 +498,9 @@
           (fill (type none))
         )
       )
-      (symbol "+24V_1_1"
+      (symbol "+12V_1_1"
         (pin power_in line (at 0 0 90) (length 0) hide
-          (name "+24V" (effects (font (size 1.27 1.27))))
+          (name "+12V" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
       )
@@ -860,13 +860,13 @@
     )
   )
 
-  (symbol (lib_id "power:+24V") (at 150.495 40.005 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:+12V") (at 150.495 40.005 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 3de50ebd-e8d0-46bd-b074-0c8e7cd1a1e1)
-    (property "Reference" "#PWR0128" (at 150.495 43.815 0)
+    (uuid 54569a36-909b-427c-9eb8-67938a1cb693)
+    (property "Reference" "#PWR091" (at 150.495 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+24V" (at 150.495 34.925 0)
+    (property "Value" "+12V" (at 150.495 36.195 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 150.495 40.005 0)
@@ -875,17 +875,20 @@
     (property "Datasheet" "" (at 150.495 40.005 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6ec14025-a364-4793-ac21-6447632a79c7))
+    (pin "1" (uuid 3c4688e0-cd5e-4457-8cc7-9540b33becbd))
     (instances
       (project "RpiPico_Agriboard"
-        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/409c313f-e246-4e4c-98bc-c54a0aafafc3"
-          (reference "#PWR0128") (unit 1)
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc"
+          (reference "#PWR091") (unit 1)
         )
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/d7235480-5339-47ed-bac5-b2c207ca2fef"
-          (reference "#PWR0110") (unit 1)
+          (reference "#PWR043") (unit 1)
+        )
+        (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/409c313f-e246-4e4c-98bc-c54a0aafafc3"
+          (reference "#PWR069") (unit 1)
         )
         (path "/c2474b65-c0e8-4987-86b2-fddddd4113dc/c2ae985f-4241-4ec2-979d-cb385c950bc9"
-          (reference "#PWR0130") (unit 1)
+          (reference "#PWR071") (unit 1)
         )
       )
     )

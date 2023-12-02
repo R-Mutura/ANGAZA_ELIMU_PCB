@@ -1,4 +1,3 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
-"BT1","18650 BAT","BatteryHolder_Keystone_1042_1x18650",174.700000,-62.000000,0.000000,bottom
-"C15","100n","C_0402_1005Metric",175.675000,-85.500000,0.000000,bottom
-"C17","100n","C_0402_1005Metric",175.695000,-86.600000,0.000000,bottom
+"BT1","18650 BAT","BatteryHolder_Keystone_1042_1x18650",174.730000,-62.100000,0.000000,bottom
+"BT2","18650 BAT","BatteryHolder_Keystone_1042_1x18650",174.700000,-84.400000,0.000000,bottom

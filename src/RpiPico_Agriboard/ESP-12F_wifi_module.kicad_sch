@@ -780,6 +780,11 @@
     (uuid ffeab22c-a42e-4554-9c4d-b44b6bea2596)
   )
 
+  (text "ESP 12F WiFi/BLE MODULE" (at 102.87 35.56 0)
+    (effects (font (face "Agency FB") (size 7 7) bold) (justify left bottom))
+    (uuid 721f077d-1946-4537-9bba-d887e30c7719)
+  )
+
   (label "ESP8266_TX" (at 216.535 68.58 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid 17063eeb-10ac-49e6-885c-a35ab98a6a37)

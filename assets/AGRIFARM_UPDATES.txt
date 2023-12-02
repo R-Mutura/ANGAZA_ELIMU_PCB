@@ -16,3 +16,5 @@ all blue - DONE
 - Add GND screw terminal on the RS485 port - DONE
 - Change the Geviton Logo to the new one. please check 
 in the website - DONE
+
+- ambient light sensor

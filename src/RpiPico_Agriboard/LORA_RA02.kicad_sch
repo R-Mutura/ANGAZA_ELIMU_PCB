@@ -299,6 +299,11 @@
     (uuid f1569b93-006d-4d6f-8190-c250455a0b21)
   )
 
+  (text "LORA MODULE RA-02" (at 121.285 35.56 0)
+    (effects (font (face "Agency FB") (size 6 6) bold) (justify left bottom))
+    (uuid 1e8bdb01-839f-4db8-815c-07de4e24966a)
+  )
+
   (hierarchical_label "LORA_DI01" (shape output) (at 172.72 76.835 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 25a49548-6d61-4df6-8cd0-8b98d8c4eb9a)

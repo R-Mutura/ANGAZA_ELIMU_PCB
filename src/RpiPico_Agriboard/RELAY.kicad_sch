@@ -793,8 +793,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 10133f57-9281-4ab8-afeb-018c8bca39a5)
   )
-  (text "RELAY DRIVER\n" (at 106.045 71.12 0)
-    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+  (text "RELAY DRIVER\n" (at 122.555 57.785 0)
+    (effects (font (face "Agency FB") (size 5 5) (thickness 0.4) bold) (justify left bottom))
     (uuid 9b1958d8-cdbd-4601-825e-2642d8e5b532)
   )
 

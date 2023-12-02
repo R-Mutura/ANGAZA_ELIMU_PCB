@@ -784,7 +784,7 @@
   )
 
   (text "MOSFET DRIVER" (at 126.365 27.94 0)
-    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+    (effects (font (face "Agency FB") (size 5 5) (thickness 0.4) bold) (justify left bottom))
     (uuid 3fe98fe3-5ee3-4b60-8fda-db47aaa6c6dd)
   )
   (text "CURRENT LIMITING RESISTOR\n2A" (at 139.7 80.01 0)
